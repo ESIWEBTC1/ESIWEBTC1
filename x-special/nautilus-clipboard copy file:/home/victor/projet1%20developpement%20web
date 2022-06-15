@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="onglet.css">
+
+<link rel="stylesheet" href="code.css">
+<style>data</style>
+<link rel="icon" href="a.png"/>
+<meta charset="utf-8"/>
+</head>
+<body style="font-family:Verdana;color:#000000;background-color:#a0ddfa">
+<div style="background-color:#a0ddfa;padding:15px;text-align:center;">
+
+<h1><i>BIENVENU A BOBO-DIOULASSO</i></h1></div>
+
+<div style="font-size:30px;margin-top:20px">
+
+	<div style="background-color:#ebafde;border: 2px solid; border-radius:20px;padding:8px; float:left"><a href="page d'accueil.html">Accueil</a></div>
+
+
+
+     <div style="background-color:#ebafde;border: 2px solid; border-radius:20px; margin-left:90px;padding:8px; float:left"><a href="patrimoine.html">patrimoine</a></div>  
+
+
+
+        <div style="background-color:#ebafde;border: 2px solid; margin-left:90px; border-radius:20px;padding:8px; float:left"><a href="galerie.html">galerie</a></div>
+
+
+
+        <div style="background-color:#ebafde; border: 2px solid; margin-left:90px;  border-radius:20px; padding:8px;float:left"><a href="reserv.html">reservation d'hotel</a></div>
+
+
+ </div><br><br><br><br>
+
+<p>
+
+
+BOBO-DIOULASSO est la capitale économique du BURKINA-FASO. Siuée au sud-ouest du Burkina-Faso, Bobo-Dioulasso couvre une superficie de 13678 hectar. la commune de Bobo-Dioulasso est administrée par un maire et un bureau élus au sien du conseil municipal et une durée de 5ans. La ville jouit d'un client plutôt doux. Elle s'est développée à partir d'un petit village du nom <em>KIBIDOUÉ</em>.<br> Fondée par des agriculteurs<em>Bobo</em> et des commerçants <em>Dioula</em> venus du Mandé vers 1050, <em>KIBIDOUÉ</em> devient Sya avec l'arrivée progressive des commerçants venus de <em>Kong</em> (actuel Cote-D'Ivoire). Enssemble les deux ethnies fondent le royaume du <em>Guiriko</em> avec pour capitale Sya. Le royaume s'agrandit et fut baptisé Bobo-Dioulasso par le Colonel CAUDRELIER en 1904. La belle cité de SYA(ancien nom) regorge plusieurs sites touristiques qui attirent chaque année les touristes.</p>
+
+<img src="bobo.jpg" width="600" height="400">
+
+<marquee><div style="background-color:#a0ddfa;text-align:center;padding:10px;margin-top:7px;">Bobo tourisme</div>
+</body>
+</html>
